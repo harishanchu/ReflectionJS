@@ -4,3 +4,4 @@ docs
 .travis.yml
 gulpfile.js
 Makefile
+npm-debug.log
