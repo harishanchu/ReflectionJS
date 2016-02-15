@@ -1,5 +1,5 @@
 {
-  "name": "reflection-js",
+  "name": "reflectionjs",
   "version": "1.0.0",
   "description": "A reflection library for JavaScript",
   "main": "./lib/reflection.js",
