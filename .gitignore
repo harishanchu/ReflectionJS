@@ -1,0 +1,6 @@
+.idea
+test
+docs
+.travis.yml
+gulpfile.js
+Makefile
